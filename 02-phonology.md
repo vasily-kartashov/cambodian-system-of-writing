@@ -144,10 +144,23 @@ Altogether 31 vowel nuclei.
 
 ### 3. Polysyllables
 
-...
+Polysyllables are rare in colloquial speech, and can usually be identified as loanwords from Pali, Sanskrit, or French sources. Words of up to six syllables occur in formal speech, and even longer words occur in written texts. Such polysyllables tend to conform in normal speech to the stress pattern typical of disyllables; i.e. alternation of an unstressed with a stressed syllable.
+
+**Examples:**
+ 
+* Three syllables: /.../ ‘usually’
+* Four syllables: /.../ ‘Buddhism’
+* Five syllables: /.../ ‘royal government’
+* Six syllables:  /.../ ‘editorial’
 
 ## E. Marginal Phonemes and Phoneme Combinations
 
 Certain marginal phonemes and combinations are introduced by French loanwords which are not completely assimilated to the phonological structure of native Cambodian words.
+
+**Phonemes:**
+
+...
+
+**Combinations:**
 
 ...

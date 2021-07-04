@@ -2,7 +2,7 @@
 
 ## A. Names and Values of the Consonant Symbols
 
-There are thirty-three consonant symbols in the Cambodian writing system. As in the Indic alphabet from which they are derived, they are arranged in five groups based on position of articulation, proceeding from the back to the front of the mouth, and a sixth group usually labeled Miscellaneous. These designations are accurate for modern Cambodian, except that the “Retroflexes” are pronounced as dentals in Cambodian. In the chart below, the consonant symbols of Cambodian are listed in their dictionary order, which should be memorized by the student for efficiency in the use of dictionaries. Each symbol is followed by its name when pronounced in isolation, and its values before a vowel, when first in a consonantal cluster, and when in final position.
+There are thirty-three consonant symbols in the Cambodian writing system. As in the Indic alphabet from which they are derived, they are arranged in five groups based on position of articulation, proceeding from the back to the front of the mouth, and a sixth group usually labeled Miscellaneous. These designations are accurate for modern Cambodian, except that the “Retroflexes” are pronounced as dentals in Cambodian. In the chart below, the consonant symbols of Cambodian are listed in their dictionary order, which should be memorized by the student for efficiency in the use of dictionaries. Each symbol is followed by its _name_ when pronounced in isolation, and its _values_ before a vowel, when first in a consonantal cluster, and when in final position.
 
 <table>
   <tr>
