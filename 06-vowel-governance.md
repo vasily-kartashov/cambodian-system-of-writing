@@ -8,6 +8,10 @@ As shown in Chapter II, the pronunciation of a vowel symbol is determined, or â€
 
 ## B. Disyllables
 
+Both of the foregoing can be summarized in a single unified rule, which is valid for all monosyllables, as well as for most disyllables, which contain prevocalic consonants of differing series.
+
+> **RULE**: In any syllable which is preceded in the same word by consonants of different series, the series of the vowel will be determined by the last preceding stop or spirant.
+
 ...
 
 ## C. Polysyllables
