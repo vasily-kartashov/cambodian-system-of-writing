@@ -4,13 +4,34 @@
 
 Cambodian numeral symbols were borrowed from the same Indic source as the alphabet. Although Arabic numerals are well known, especially in urban areas, as a result of French influence, the Indic symbols (identical with those used in Thai) are used almost exclusively in Cambodian publications.
 
-...
+<table>
+  <tr>
+    <td>១</td><td>២</td><td>៣</td><td>៤</td><td>៥</td><td>៦</td><td>៧</td><td>៨</td><td>៩</td><td>០</td>
+  </tr>
+  <tr>
+    <td>9</td><td>8</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>0</td>
+  </tr>
+</table>
 
 Aithough the symbols themselves are based on the decimal system, the names underlying them reveal an older system based on five, as can be seen in the names of the numerals 6-9, which are 5+1, 5+2, 5+3, and 5+4 respectively. The names of the numerals 1-9 and zero are as follows:
 
 ...
 
 ## B. Notes of the Numerals
+
+### 1.
+
+...
+
+### 2.
+
+...
+
+### 3.
+
+...
+
+### 4.
 
 ...
 
