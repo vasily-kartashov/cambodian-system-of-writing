@@ -16,92 +16,92 @@ The consonant phonemes of Cambodian are arranged in an articulatory chart below.
     <th>Glottal</th>  
   </tr>
   <tr>
-    <th colspan=6>Stops:</th>
+    <td colspan=6><u>Stops:</u></td>
   </tr>
   <tr>
-    <th>Voiceless<th>
-    <th>-p</th>
-    <th>-t</th>
-    <th>-c</th>
-    <th>-k</th>
-    <th>-q</th>
+    <td>Voiceless</td>
+    <td>-p</td>
+    <td>-t</td>
+    <td>-c</td>
+    <td>-k</td>
+    <td>-q</td>
   </tr>
   <tr>
-    <th>Voiced<th>
-    <th>b</th>
-    <th>d</th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <td>Voiced</td>
+    <td>b</td>
+    <td>d</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <th colspan=6>Spirants:</th>
+    <td colspan=6><u>Spirants:</u></td>
   </tr>
   <tr>
-    <th>Voiceless<th>
-    <th>(f)</th>
-    <th>s</th>
-    <th></th>
-    <th></th>
-    <th>-h</th>
+    <td>Voiceless</td>
+    <td>(f)</td>
+    <td>s</td>
+    <td></td>
+    <td></td>
+    <td>-h</td>
   </tr>
   <tr>
-    <th colspan=6>Continuants:</th>
+    <td colspan=6><u>Continuants:</u></td>
   </tr>
   <tr>
-    <th>Nasal<th>
-    <th>-m</th>
-    <th>-n</th>
-    <th>-ñ</th>
-    <th>-ŋ</th>
-    <th></th>
+    <td>Nasal</td>
+    <td>-m</td>
+    <td>-n</td>
+    <td>-ñ</td>
+    <td>-ŋ</td>
+    <td></td>
   </tr>
   <tr>
-    <th>Semivocalic<th>
-    <th>-w</th>
-    <th></th>
-    <th>-y</th>
-    <th></th>
-    <th></th>
+    <td>Semivocalic</td>
+    <td>-w</td>
+    <td></td>
+    <td>-y</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <th>Lateral<th>
-    <th></th>
-    <th>-l</th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <td>Lateral</td>
+    <td></td>
+    <td>-l</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <th>Trilled<th>
-    <th></th>
-    <th>-r</th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <td>Trilled</td>
+    <td></td>
+    <td>-r</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
 ### Phonetic Key
 
-* /p/ - 
-* /t/
-* /c/
-* /k/
-* /q/
-* /b/
-* /d/
-* /f/
-* /s/
-* /h/
-* /m/
-* /n/
-* /ñ/
-* /ŋ/
-* /w/
-* /y/
-* /l/
-* /r/
+* /p/ Voiceless unaspirated bilablial stop. In initial position like the p in pin, but without the aspiration; or like the p in spin. In final position like the p in up.
+* /t/ Voiceless unaspirated dental stop. Initially like the t in top, but without the aspiration; or like the t in stop. Finally like the t in hot.
+* /c/ Voiceless unaspirated palatal stop. Initially like the ch in cheese, but without the aspiration. Finally it represents an unreleased closure made with the blade of the tongue against the front part of the hard palate.
+* /k/ Voiceless unaspirated velar stop. Initially like the k in key, but without the aspiration; or like the k in ski. Finally like the ck in back. After the vowels /ii, ei, ee, or ae/ it is intermediate between /c/ and /k/; the two never contrast in that position.
+* /q/ Voiceless unaspirated glottal stop. Initially like the closure which occurs at the beginning of the word Oh! when pronounced explosively. Finally like the closure which occurs at the end of the first Oh in the exclamation Oh, oh (he’s done it again!).
+* /b/ Voiced unaspirated bilabial stop. Like the b in bin, but more tense.
+* /d/ Voiced unaspirated dental stop. Like the d in day, but more tense.
+* /f/ Voiceless labio-dental spirant. Like the f in fool. Occurs only in a few loanwords.
+* /s/ Voiceless dental groove spirant. Like the s in sit.
+* /h/ Voiceless glottal spirant. Initially like English h in hot. In final position its point of articulation is much fronter, somewhat like the German ch in Ich.
+* /m/ Voiced bilabial nasal. Like the m in mom, ham.
+* /n/ Voiced dental nasal. Like the n in no, on.
+* /ñ/ Voiced palatal nasal. Like ny in canyon, but occurs initially and finally in Cambodian.
+* /ŋ/ Voiced velar nasal. Like ng in sing, but occurs both initially and finally in Cambodian. After the vowels /ii, ei, ee, ae/ it is intermediate between /i/ and /n/; the two never contrast in that position.
+* /w/ Voiced labio-dental semi-vowel. Spirantized in initial position, like the English v in voodoo, but with more lip-rounding. May be delabialized in final position.
+* /y/ Voiced palatal semi-vowel. Like English y in you, but more tense.
+* /l/ Voiced lateral. Like English l in late, ale.
+* /r/ Voiced retroflex. May be slightly trilled initially, but usually pronounced as a single flap, like the Spanish r in pero.
 
 ## B. Initial Consonant Sequences
 
