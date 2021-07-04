@@ -6,7 +6,81 @@ In order to talk about the relationship between sound and symbol, one must have 
 
 The consonant phonemes of Cambodian are arranged in an articulatory chart below. The terminology used in the chart is useful in later chapters in dealing with the relationships between the writing system and certain groups of articulatorily related consonants. It is also relevant to the arrangement of consonant symbols in the Cambodian alphabet. Those symbols preceded by a hyphen occur both initially and finally.
 
-...
+<table>
+  <tr>
+    <th></th>
+    <th>Labial</th>
+    <th>Dental</th>
+    <th>Palatal</th>
+    <th>Velar</th>
+    <th>Glottal</th>  
+  </tr>
+  <tr>
+    <th colspan=6>Stops:</th>
+  </tr>
+  <tr>
+    <th>Voiceless<th>
+    <th>-p</th>
+    <th>-t</th>
+    <th>-c</th>
+    <th>-k</th>
+    <th>-q</th>
+  </tr>
+  <tr>
+    <th>Voiced<th>
+    <th>b</th>
+    <th>d</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th colspan=6>Spirants:</th>
+  </tr>
+  <tr>
+    <th>Voiceless<th>
+    <th>(f)</th>
+    <th>s</th>
+    <th></th>
+    <th></th>
+    <th>-h</th>
+  </tr>
+  <tr>
+    <th colspan=6>Continuants:</th>
+  </tr>
+  <tr>
+    <th>Nasal<th>
+    <th>-m</th>
+    <th>-n</th>
+    <th>-ñ</th>
+    <th>-ŋ</th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Semivocalic<th>
+    <th>-w</th>
+    <th></th>
+    <th>-y</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Lateral<th>
+    <th></th>
+    <th>-l</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Trilled<th>
+    <th></th>
+    <th>-r</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+</table>
 
 ### Phonetic Key
 
