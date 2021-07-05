@@ -291,7 +291,40 @@ There are thirty-three consonant symbols in the Cambodian writing system. As in 
 
 ## B. Notes on Consonant Symbols
 
+### 1. The Two Series
+
+Notice that the names of some consonant symbols have the vowel /aa/ while others have the vowel /.../. Consonants which are pronounced with an inherent /aa/ vowel are called .... /qakhoosaq/ ‘voiceless’ in Cambodian, and consonants which are pronounced with an inherent /.../ are called ... /khoosaaq/ ‘voiced’, based on the values which they had in the Indic writing system.
+
+These terms are not relevant to the phonological values of the two series of consonants in modern Cambodian, since each consonant symbol has the same phonological value as its counterpart in the opposite series. Thus we will refer to them simply as the _1st Series_ and _2nd Series_ respectively. The distinction between the two series is essential to reading Cambodian, since the value of a following vowel symbol is determined by the series to which the initial, or “governing,” consonant symbol belongs. In other words, the Cambodian writing system doubles the function of its vowel symbols by using two sets of consonant symbols with a single set of vowel symbols. It follows that there are two consonant symbols for every consonant sound, and two values for every vowel symbol. Thus Cambodian has a _syllabic_ writing system, in the sense that the pronunciation of syllables is represented by _configurations_ of symbols, as opposed to an _alphabetic_ writing system, where a sequence of symbols has a one-to-one relationship with a sequence of sounds. This idea of configuration is strengthened by the fact that yowel symbols are written before, above, below, after, and around the consonant
+symbol after which they are pronounced.
+
+### 2. Conversion
+
 ...
+
+### 3. The Symbol ... /baa/
+
+...
+
+### 4. The Symbol ... /taa/
+
+...
+
+### 5. The Retroflexes
+
+Since there are no retroflex consonants in Cambodian, the Retroflex symbols are available for other uses. The symbols ... and ... are used to represent /d/ in the 1st and 2nd series respectively, and the Retroflex nasal ... is used to represent a 1st series /n/. The symbols ... /thaa/, ... /.../ and ... /.../ are rare, occurring only in a few words of Pali or Sanskrit origin.
+
+### 6. The Aspirates
+
+Symbols ..., amd ..., which represented aspirated consonants in the script from which they were borrowed, represent sequences of a stop + /h/ in Cambodian. When they occur as the first member of a written cluster, however, they represent the unaspirated stops /p t c k/.
+
+### 7. Final -រ
+
+Notice that when រ /r/ occurs in final position, it is not pronounced (represented ... the chart); e.g. ... /kaa/ ‘work’, ... /kmae/ ‘Cambodian’.
+
+### 8. Special Combinations
+
+The symbol ... is combined with the subseript form of ... (...; see Chapter V) to represent the consonant /f/; e.g. ... /.../ ‘to train’, ... /kaafei/ ‘coffee’. In some words ... is pronounced /waa/ as if it were the 1st series counterpart of ...; e.g. ... /.../ ‘flock, crowd’. ... also sometimes combines with the subscript forms of ... /.../, ... /.../, and ... /.../ to represent the 1st series counterparts of those symbols; e.g. ... /maa/, ... /naa/, and ... /laa/.
 
 ## C. The Two Series Contrasted
 

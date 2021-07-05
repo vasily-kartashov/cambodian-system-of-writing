@@ -8,7 +8,13 @@ When two consonant symbols are pronounced consecutively (without an intervening 
 
 ### 1. Shapes of the Subscripts
 
-...
+a) 
+b)
+c)
+d)
+e)
+f)
+g)
 
 ### 2. The Subscript ...
 
@@ -32,4 +38,34 @@ When two consonant symbols are pronounced consecutively (without an intervening 
 
 ### 7. Final Clusters
 
-...
+Many loanwords are spelled with an etymological final cluster, the subscripts of which are not pronounced, since only one consonant may occur phonologically at the end of a Cambodian word. Following are some common words spelled with final clusters:
+
+* ... /.../ friend
+* ... /put/ Buddha
+* ... /.../ state
+* ... /.../ menu
+* ... /.../ wife
+* ... /.../ word
+* ... /.../ doctor
+* ... /kam/ karma
+* ... /bon/ merit
+* ... /.../ heart, mind
+* ... /sat/ animal
+* ... /.../ motor
+* ... /sambot/ letter
+* ... /samot/ ocean
+* ... /.../ priest
+* ... /.../ group, circle
+* ... /.../ sun
+* ... or ... /.../ province
+
+If a final cluster has ... as superscript, they are both unpronounced, e.g.:
+
+* ... /qaacaa/ teacher
+
+However, when a word which is spelled with a final cluster occurs as the first element of a compound, the subscript is activated as the initial of a following syllable, e.g.:
+
+* ... /.../ friendship 
+* ... /.../ government
+* ... /.../ Buddhism
+* ... /.../ worker
