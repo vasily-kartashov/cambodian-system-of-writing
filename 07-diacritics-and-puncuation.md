@@ -90,7 +90,7 @@ The symbol ... is a full stop that implies more finality than the /khan/ above. 
 
 The /koo-mout/ is a full stop symbol that, like the /baariyaosaan/ above, marks the absolute end of a text. It is usually reserved for poetic or religious texts. It sometimes occurs as the second part of the compound symbol ..., which is also called /baariyaosaan/.
 
-### 5. ... /pnɛɛk moə̆n/ ‘cock's eye’ (... or ៙)
+### 5. ... /pnɛɛk mŏən/ ‘cock's eye’ (... or ៙)
 
 ...
 
@@ -102,7 +102,7 @@ The /koo-mout/ is a full stop symbol that, like the /baariyaosaan/ above, marks 
 
 ...
 
-### 8. ៘ /laq/ or ... /peiyaal/
+### 8. ៘ /laq/ or ។ប។ /peiyaal/
 
 ...
 
@@ -160,7 +160,7 @@ The following punctuation marks are used much as in English, and may occur in Ca
   <tr>
     <td>()</td>
     <td>...</td>
-    <td>/wuə̆ŋ kracaaq/</td>
+    <td>/wŭəŋ kracaaq/</td>
     <td>fingernail curves</td>
   </tr>
 </table>
