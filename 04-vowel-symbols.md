@@ -20,6 +20,6 @@ The value of a given symbol may also depend on its environment; i.e. on the fina
 
 In the preceding sections, it can be seen that the notation of Cambodian vowel sounds is “regular” in the sense that, given sufficient information about the environment of a vowel symbol, its pronunciation can be predicted; in other words, except where the independent vowel symbols are involved, it is seldom necessary to say: “sometimes pronounced --, and sometimes pronounced --.” (There are some irregularities, however, which are dealt with in Chapter X.) The Cambodian writing system does depart from the principle of a one-to-one ratio between sound and symbol in that a given vowel sound can be represented in a variety of ways. The following chart takes the vowel sounds as the starting point and shows the various ways in which they may be represented in the writing system. The regular, or typical, spelling is given first, followed by less typical spellings.
 
-The consonant symbol ... is used as a base for Ist series syllables, and ... is used for 2nd series syllables.
+The consonant symbol ... is used as a base for 1st series syllables, and ... is used for 2nd series syllables.
 
 ...
