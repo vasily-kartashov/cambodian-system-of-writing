@@ -15,7 +15,251 @@ Cambodian numeral symbols were borrowed from the same Indic source as the alphab
 
 Aithough the symbols themselves are based on the decimal system, the names underlying them reveal an older system based on five, as can be seen in the names of the numerals 6-9, which are 5+1, 5+2, 5+3, and 5+4 respectively. The names of the numerals 1-9 and zero are as follows:
 
-...
+<table>
+  <tr>
+    <td>១</td>
+    <td>//</td>
+    <td>one</td>
+    <td>1</td>
+  </td>
+  <tr>
+    <td>២</td>
+    <td>//</td>
+    <td>two</td>
+    <td>2</td>
+  </td>
+  <tr>
+    <td>៣</td>
+    <td>//</td>
+    <td>three</td>
+    <td>3</td>
+  </td>
+  <tr>
+    <td>៤</td>
+    <td>//</td>
+    <td>four</td>
+    <td>4</td>
+  </td>
+  <tr>
+    <td>៥</td>
+    <td>//</td>
+    <td>five</td>
+    <td>5</td>
+  </td>
+  <tr>
+    <td>៦</td>
+    <td>//</td>
+    <td>six</td>
+    <td>6</td>
+  </td>
+  <tr>
+    <td>៧</td>
+    <td>//</td>
+    <td>seven</td>
+    <td>7</td>
+  </td>
+  <tr>
+    <td>៨</td>
+    <td>//</td>
+    <td>eight</td>
+    <td>8</td>
+  </td>
+  <tr>
+    <td>៩</td>
+    <td>//</td>
+    <td>nine</td>
+    <td>9</td>
+  </td>
+  <tr>
+    <td>០</td>
+    <td>//</td>
+    <td>zero</td>
+    <td>0</td>
+  </td>
+</table>
+
+For the numeral 7, the pronunciation /prampii/ is used only ina reading pronunciation; in normal speech it is always pronounced /.../.
+
+The names of the numerals 10-20 are as follows:
+
+<table>
+  <tr>
+    <td>១០</td>
+    <td>//</td>
+    <td>ten</td>
+    <td>10</td>
+  </td>
+  <tr>
+    <td>១១</td>
+    <td>//</td>
+    <td>eleven</td>
+    <td>11</td>
+  </td>
+  <tr>
+    <td>១២</td>
+    <td>//</td>
+    <td>twelve</td>
+    <td>12</td>
+  </td>
+  <tr>
+    <td>១៣</td>
+    <td>//</td>
+    <td>thirteen</td>
+    <td>13</td>
+  </td>
+  <tr>
+    <td>១៤</td>
+    <td>//</td>
+    <td>fourteen</td>
+    <td>14</td>
+  </td>
+  <tr>
+    <td>១៥</td>
+    <td>//</td>
+    <td>fifteen</td>
+    <td>15</td>
+  </td>
+  <tr>
+    <td>១៦</td>
+    <td>//</td>
+    <td>sixteen</td>
+    <td>16</td>
+  </td>
+  <tr>
+    <td>១៧</td>
+    <td>//</td>
+    <td>seventeen</td>
+    <td>17</td>
+  </td>
+  <tr>
+    <td>១៨</td>
+    <td>//</td>
+    <td>eighteen</td>
+    <td>18</td>
+  </td>
+  <tr>
+    <td>១៩</td>
+    <td>//</td>
+    <td>nineteen</td>
+    <td>19</td>
+  </td>
+  <tr>
+    <td>២០</td>
+    <td>//</td>
+    <td>twenty</td>
+    <td>20</td>
+  </td>
+</table>
+
+For the numerals 11-19, the second form with the use of /-dandap/ ‘teen’ is the more colloquial.
+
+While the names of the numerals 1-10 and 20 seem to be Cambodian in origin, the names for the numerals 30, 40, 50, 60, 70, 80, 90, 100, 1000, 10,000 and 1 million (and perhaps 0 and 10 million) are borrowed from Thai.
+
+<table>
+  <tr>
+    <td>៣០</td>
+    <td>//</td>
+    <td>thirty</td>
+    <td>30</td>
+  </td>
+  <tr>
+    <td>៤០</td>
+    <td>//</td>
+    <td>fourty</td>
+    <td>40</td>
+  </td>
+  <tr>
+    <td>៥០</td>
+    <td>//</td>
+    <td>fifty</td>
+    <td>50</td>
+  </td>
+  <tr>
+    <td>៦០</td>
+    <td>//</td>
+    <td>sixty</td>
+    <td>60</td>
+  </td>
+  <tr>
+    <td>៧០</td>
+    <td>//</td>
+    <td>seventy</td>
+    <td>70</td>
+  </td>
+  <tr>
+    <td>៨០</td>
+    <td>//</td>
+    <td>eighty</td>
+    <td>80</td>
+  </td>
+  <tr>
+    <td>៩០</td>
+    <td>//</td>
+    <td>ninety</td>
+    <td>90</td>
+  </td>
+  <tr>
+    <td>១០០</td>
+    <td>//</td>
+    <td>one hundred</td>
+    <td>100</td>
+  </td>
+  <tr>
+    <td>១.០០០</td>
+    <td>//</td>
+    <td>one tousand</td>
+    <td>1,000</td>
+  </td>
+  <tr>
+    <td>១០.០០០</td>
+    <td>//</td>
+    <td>one ten-tousand</td>
+    <td>10,000</td>
+  </td>
+  <tr>
+    <td>១០០.០០០</td>
+    <td>//</td>
+    <td>one hundred-thousand</td>
+    <td>100,000</td>
+  </td>
+  <tr>
+    <td>១.០០០.០០០</td>
+    <td>//</td>
+    <td>one million</td>
+    <td>1,000,000</td>
+  </td>
+  <tr>
+    <td>១០.០០០.០០០</td>
+    <td>//</td>
+    <td>one ten-million</td>
+    <td>10,000,000</td>
+  </td>
+</table>
+
+All complex numerals involve combinations of the above:
+
+<table>
+  <tr>
+    <td>២២</td>
+    <td>//</td>
+    <td>22</td>
+  </td>
+  <tr>
+    <td>៣៩</td>
+    <td>//</td>
+    <td>39</td>
+  </td>
+  <tr>
+    <td>១៥៩</td>
+    <td>//</td>
+    <td>159</td>
+  </td>
+  <tr>
+    <td>២.៨៦១</td>
+    <td>//</td>
+    <td>2,861</td>
+  </td>
+</table>
 
 ## B. Notes of the Numerals
 
@@ -24,20 +268,28 @@ Aithough the symbols themselves are based on the decimal system, the names under
 In Cambodian numerals involving four or more symbols, a period is placed after every three symbols, counting from the right to the left (as in French). This system of punctuation has little relevance to the pronunciation of Cambodian numerals, however, since each succeeding numeral is read as a separate denomination, rather than in groups of three. Such additive components, except in numbers smaller than 100, are typically separated by rising intonation (represented by a comma in the transcription). This rising intonation never occurs in compounds separated by close juncture (represented by a hyphen in the transcription),
 
 > ...
+>
 > /.../
+>
 > 2,000,000 + 300,000 + 50,000 + 4,000 + 700 + 55 (= 2,354,755)
 
 No punctuation is used, however, in writing dates; e.g., 62--9604 1914--1918.
 
 ### 2.
 
+In multiplicative compounds whose first element is ... /.../ ‘one’, /.../ is usually shortened in rapid speech to /.../.
+
 ...
+
+This reduced form almost always occurs in ... /.../ ‘20‘ (reflected in the conjunct spelling), but /.../ has been observed in deliberate speech.
 
 ### 3.
 
 ...
 
 ### 4.
+
+In addition to the numeral system outlined above, reflexes of Sanskrit numerals occur in many compounds, with either cardinal or ordinal meaning; e.g.:
 
 ...
 
