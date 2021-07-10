@@ -4,6 +4,24 @@ As shown in Chapter II, the pronunciation of a vowel symbol is determined, or â€
 
 ## A. Monosyllables
 
+### 1.
+
+If both superscript and subscript belong to the same series, there is no problem; e.g.:
+
+- Both superscript and subscript are Series 1; vowel is Series 1:
+
+* ... /kbaal/ head 
+* ... /sqaek/ tomorrow
+* ... /.../ different
+
+- Both superscript and subscript are Series 2; vowel is Series 2:
+
+* ... /.../ sufficient 
+* ... /pcum/ to assemble 
+* ... /.../ pineapple
+
+### 2. 
+
 ...
 
 ## B. Disyllables
