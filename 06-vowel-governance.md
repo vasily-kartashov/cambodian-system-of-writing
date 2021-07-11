@@ -10,19 +10,61 @@ If both superscript and subscript belong to the same series, there is no problem
 
 - Both superscript and subscript are Series 1; vowel is Series 1:
 
-* ... /kbaal/ head 
-* ... /sqaek/ tomorrow
+* ក្បាល /kbaal/ head 
+* ស្អែក /sqaek/ tomorrow
 * ... /.../ different
 
 - Both superscript and subscript are Series 2; vowel is Series 2:
 
 * ... /.../ sufficient 
 * ... /pcum/ to assemble 
-* ... /.../ pineapple
+* ម្នាស់ /.../ pineapple
 
 ### 2. 
 
+If, however, the two consonant symbols belong to different series, the following two rules apply:
+
+1) Any _stop_ or _spirant_ takes precedence over any continuant in determining the series of a following vowel. In other words, symbols representing the consonants of Group I below dominate symbols representing consonants of Group II:
+
 ...
+
+a) In the following examples, the dominant consonant belongs to the 1st series, so the vowel has its 1st series value.
+
+Superscript is dominant, subscript is passive:
+
+* ... /.../ fish
+* ... /pnaek/ section
+* ... /swaa/ monkey
+
+Superscript is passive, subscript is dominant:
+
+* ... /mhoup/ food 
+* ... /mdaay/ mother 
+* .. /.../ pretty
+
+b) In the following examples, the dominant consonant belongs to the 2nd series, so the vowel has its 2nd series value. 
+
+Superscript is dominant, subscript is passive:
+
+* ... /.../ be hungry
+* ... /.../ eyes 
+* ... /.../ together
+
+Superscript is passive, subscript is dominant:
+
+* ... /mteeh/ a pepper 
+* ... /mcul/ needle
+
+Since both consonant symbols in these examples belong to the same series, there is no problem of governance; they are listed to provide contrast with the 1st series examples in a) above.
+
+2) When both superscript and subscript are dominant, the series of the vowel is determined by the series of subscript. In the following examples, the superscript is 1st series while the subscript is 2nd series, so the vowel has its 2nd
+series value.
+
+* ... /.../ house
+* ... /.../ to know
+* ... /.../ to be high
+
+In such words, only 1st series consonants occur as superscripts, since the series of the vowel is always determined by the subscript.
 
 ## B. Disyllables
 
