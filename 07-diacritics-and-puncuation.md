@@ -4,51 +4,92 @@
 
 The following special symbols, with the exception of the /sraq qam/ (...) and the /.../ (...), are usually treated as diacritics (... /.../) in Cambodian textbooks. The /sraq qam/ and /réshmuk/ are listed as vowel symbols in Cambodian dictionaries (see Chapter IV, A), although in fact they represent combinations of vowel + consonant. These diacritics typically have several designations depending on the level of speech employed. There is furthermore a certain amount of confusion between them among literate Cambodians. Each symbol is listed here by its common pedagogical name, followed by alternative designations. Some of the following have already been encountered, but are included here for completeness.
 
-### 1. ...
+### 1. The បន្តក់ /.../ (...)
+
+The /.../ is sometimes called ... /.../ or ... /.../. Its occurrence over the final consonant symbol of a syllable shortens the vowel of that syllable.
+
+#### a)
+
+Ina syllable with no written vowel, it signals the short inherent vowel, i.e. /.../ after a 1st series consonant symbol, and, after a 2nd series consonant symbol, /u/ before a labial consonant and /.../ elsewhere.
+
+* ... /.../ to finish
+* ... /lup/ bird trap
+* ... /.../ to sell
+* ... /.../ a hoe
+* ... /.../ a fish trap
+* ... /.../ to channel
+
+#### b)
+
+The vowel ... followed by the /.../ is pronounced /a/ after a 1st series consonant symbol, and, after a 2nd series consonant symbol, is pronounced /.../ before a velar consonant symbol, and /.../ elsewhere
+
+* ... /cap/ to catch
+* ... /.../ to wear
+* ... /.../ chicken
+* ... /caap/ sparrow
+* ... /.../ word
+* ... /.../ to have
+
+### 2. មូសិកទន្ត /.../ (...)
+
+The /.../ is sometimes referred to as ... /.../ ’rat’s teeth’. It has two functions:
+
+a) to convert the 2nd series consonant symbols ..., ..., ..., ..., ..., and ..., which have no counterparts in the 1st series, to 1st series symbols, thus indicating a 1st series pronunciation of the vowel symbol. It is usually written over the right-hand portion of the consonant symbol.
+
+* ... /.../ kind (cf. ... /.../ to go (royalty))
+* ... /mae/ mother (cf. ... /.../ polite response particle)
+
+When the /.../ co-occurs with a superscript vowel symbol it is replaced by the ... /.../ (...)written below the consonant. ... > ... /.../ 10,000.
+
+b) to convert the 1st series consonant symbol ... /.../ to ... /.../, which doesn’t otherwise exist.
+
+* ... /paan/ to cover (cf. ... /baan/ to have)
+* ... /.../ flute (cf. ... /.../ threee)
+
+### 3. ត្រីសព្ទ /.../ (...)
 
 ...
 
-### 2. ...
+### 4. និគ្គហិត /.../ (...)
 
 ...
 
-### 3. ...
+### 5. សំយោគសញ្ញា /.../ (...)
 
 ...
 
-### 4. ...
+### 6. ទណ្ឌឃាដ /.../ (...)
 
 ...
 
-### 5. ...
+### 7. របាទ /.../ (...)
 
 ...
 
-### 6. ...
+### 8. រះមុខ /.../ (...)
 
 ...
 
-### 7. ...
+### 9. យុគលពិន្ទុ /.../ (...)
 
 ...
 
-### 8. ...
-
-...
-
-### 9. ...
-
-...
-
-### 10. ...
+### 10. ...អស្តា /.../ (...)
 
 ...
 
 ### 11. ...
 
-...
+The /.../ (...) is sometimes used in the transcription of Sanskrit words to show that  a consonant symbol is pronounced as a final consonant rather than as the initial of a following syllable:
 
-### 12. ...
+* ... /qaatman/ soul
+* ... /.../ Jayavarman
+
+In a more Cambodianized (and more common) spelling of such words, the /.../ is replaced by the /.../. In the standard _Cambodian Dictionary_ the symbol (...) is used instead of the /.../ to indicate the pronunciation of such words (in spite of the fact that the pronunciation of such words can be unambiguously specified by the /.../; see 5 above).
+
+* ... (...) /qaatman/ soul
+
+### 12. កាកបាទ /.../ (...)
 
 ...
 
