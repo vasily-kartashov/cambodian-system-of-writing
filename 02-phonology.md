@@ -125,7 +125,7 @@ Eighty-five two-place initial consonant sequences /CC-/and two three-sequences /
     <th>m</th>
     <th>n</th>
     <th>ñ</th>
-    <th>...</th>
+    <th>ŋ</th>
     <th>w</th>
     <th>y</th>
     <th>l</th>
@@ -313,16 +313,16 @@ Eighty-five two-place initial consonant sequences /CC-/and two three-sequences /
   <tr>
 </table>
 
-When the stops /p t c k/ occur as the first member of two-place initial consonant sequences /CC-/, they are unaspirated before /r s h/, slightly aspirated before voiceless stops and all continuants other than /x/ (except in the homorganic sequence /im-/), and released with slight vocalisim pefore /q b d/ and in the sequence /...-/. When the consonants /q m l/ occur as the first consonant of /CC-/ sequences, they are released with slight vocalism.
+When the stops /p t c k/ occur as the first member of two-place initial consonant sequences /CC-/, they are unaspirated before /r s h/, slightly aspirated before voiceless stops and all continuants other than /x/ (except in the homorganic sequence /kŋ-/), and released with slight vocalisim pefore /q b d/ and in the sequence /kŋ-/. When the consonants /q m l/ occur as the first consonant of /CC-/ sequences, they are released with slight vocalism.
 
 ## C. Vowels
 
-There are thirty-one different vowels and vowel combinations which occur as vocalie nuclei of Cambodian syllables. These nuclei are here analyzed as consisting of only thirteen vowel phonemes: ten short vowels and three short diphthongs. In Chart 3 the arrows represent sequences of vowel phonemes (long diphthongs). Tong vowels and long diphthongs, which are equivalent in length, are treated as sequences of two short vowels. The long vowels /.../ and /.../ have no short counterparts. The short diphthongs, which are equivalent in length to short vowels, have no long counterparts, and so must be treated as unit phonemes, They are written with a breve to distinguish them from long diphthongs. The following nuclei occur:
+There are thirty-one different vowels and vowel combinations which occur as vocalie nuclei of Cambodian syllables. These nuclei are here analyzed as consisting of only thirteen vowel phonemes: ten short vowels and three short diphthongs. In Chart 3 the arrows represent sequences of vowel phonemes (long diphthongs). Tong vowels and long diphthongs, which are equivalent in length, are treated as sequences of two short vowels. The long vowels /ɛɛ/ and /ɔɔ/ have no short counterparts. The short diphthongs, which are equivalent in length to short vowels, have no long counterparts, and so must be treated as unit phonemes, They are written with a breve to distinguish them from long diphthongs. The following nuclei occur:
 
-- 10 long vowels: //
-- 10 long diphtongs: //
-- 8 short vowels: //
-- 3 short diphtongs: //
+- 10 long vowels: /ii, ee, ɛɛ, ɨɨ, əə, aa, ɑɑ, uu, oo, ɔɔ/
+- 10 long diphtongs: /iə, ɨə, uə, ei, əɨ, ou, ae, aə, ao, ɔə/
+- 8 short vowels: /i, e, ɨ, ə, a, ɑ, u, o/
+- 3 short diphtongs: /.../
 
 Altogether 31 vowel nuclei.
 
@@ -331,35 +331,35 @@ Altogether 31 vowel nuclei.
 ### Long Vowels and Diphtongs
 
 * /ii/ as in /ciik/ ‘to dig’. High front unrounded vowel like English ee in cheek.
-* /../ as in /.../ ‘playing cards’. Falling diphthong, moving from a high front to a mid central position.
-* /ee/ as in /.../ ‘to play’. Higher-mid front unrounded vowel with lax and breathy articulation; similar to French _ée_ in _année_.
-* /ei/ as in /.../ ‘to be young’. Tense diphthong starting at a point lower than, and ending at a point higher than, /ee/ above.
-* /../ as in /.../ ‘to quit’. Lower-mid front unrounded vowel with lax and breathy articulation; similar to French _ai_ in _aide_. Occurs long only.
-* /../ as in /.../ ‘to hear’. High central unrounded vowel made by raising the center of the tongue toward the soft palate while keeping the lips flat or spread.
-* /../ as in /.../ ‘to believe’. Falling diphthong, moving from a high central to a mid central position.
-* /.../ as in /.../ ‘on’. Higher-mid central unrounded vowel with lax and breathy articulation; similar to French _eu_ in _peu_.
-* /.../ as in /.../ ‘10,000’. Tense diphthong moving from a position lower than, and ending at a point higher than, /.../ above.
-*  /aa/ as in /kaa/ ‘work’, Tense lower-mid front-of-center unrounded vowel similar to the French _a_ in _va_. (This vowel is fronter and higher than the English _a_ in _Father_; to pronounce it as such would confuse it with the vowel /.../ to the ear of a Cambodian).
+* /iə/ as in /biə/ ‘playing cards’. Falling diphthong, moving from a high front to a mid central position.
+* /ee/ as in /leeŋ/ ‘to play’. Higher-mid front unrounded vowel with lax and breathy articulation; similar to French _ée_ in _année_.
+* /ei/ as in /kmeiŋ/ ‘to be young’. Tense diphthong starting at a point lower than, and ending at a point higher than, /ee/ above.
+* /ɛɛ/ as in /lɛɛŋ/ ‘to quit’. Lower-mid front unrounded vowel with lax and breathy articulation; similar to French _ai_ in _aide_. Occurs long only.
+* /ɨɨ/ as in /lɨɨ/ ‘to hear’. High central unrounded vowel made by raising the center of the tongue toward the soft palate while keeping the lips flat or spread.
+* /ɨə/ as in /cɨə/ ‘to believe’. Falling diphthong, moving from a high central to a mid central position.
+* /əə/ as in /ləə/ ‘on’. Higher-mid central unrounded vowel with lax and breathy articulation; similar to French _eu_ in _peu_.
+* /əɨ/ as in /məɨn/ ‘10,000’. Tense diphthong moving from a position lower than, and ending at a point higher than, /əə/ above.
+*  /aa/ as in /kaa/ ‘work’, Tense lower-mid front-of-center unrounded vowel similar to the French _a_ in _va_. (This vowel is fronter and higher than the English _a_ in _Father_; to pronounce it as such would confuse it with the vowel /ɑɑ/ to the ear of a Cambodian).
 * /ae/ as /kmae/ ‘Khmer’. Falling diphthong, starting at a point similar to English _a_ in _sat_ and moving to a position similar to English _e_ in _set_.
-* /.../ as in /.../ ‘be born’. Falling diphthong, moving from the position of /aa/ described above, to the position of /../ described above.
+* /aə/ as in /kaət/ ‘be born’. Falling diphthong, moving from the position of /aa/ described above, to the position of /əə/ described above.
 * /ao/ as in /cao/ ‘thief’. Falling diphthong, moving from a sound similar to English _a_ in _Father_ to a sound similar to the English _o_ in _song_.
-* /../ as in /.../ ‘neck’. Low central unrounded vowel, backer than the English _a_ in _Father_, but fronter than the English _aw_ in _law_.
+* /ɑɑ/ as in /kɑɑ/ ‘neck’. Low central unrounded vowel, backer than the English _a_ in _Father_, but fronter than the English _aw_ in _law_.
 * /uu/ as in /tuuk/ ‘boat’. High back rounded vowel, like the English _oo_ in _boot_.
-* /.../ as in /.../ ‘hat’. Falling diphthong, moving from the position of /uu/ described above to a position somewhat lower than /.../ above.
-* /.../ as in /koo/ ‘ox’. Higher-mid back rounded vowel with lax and breathy articulation, similar to French ... in ....
+* /uə/ as in /muəq/ ‘hat’. Falling diphthong, moving from the position of /uu/ described above to a position somewhat lower than /əə/ above.
+* /oo/ as in /koo/ ‘ox’. Higher-mid back rounded vowel with lax and breathy articulation, similar to French _ô_ in _rôle_.
 * /ou/ as in /koun/ ‘offspring’. Tense falling diphthong, moving from a position lower than, to a position higher than, /oo/ above; like American English _o_ in _go_.
-* /.../ as in /.../ ‘to seek’. Lower-mid back semi-rounded vowel with lax and breathy articulation. Occurs only long.
-* /.../ as in /.../ ‘color’. Falling diphthong, moving from the position of /.../ described above to a position lower and backer than /.../ above.
+* /ɔɔ/ as in /rɔɔk/ ‘to seek’. Lower-mid back semi-rounded vowel with lax and breathy articulation. Occurs only long.
+* /ɔə/ as in /pɔə/ ‘color’. Falling diphthong, moving from the position of /ɔɔ/ described above to a position lower and backer than /əə/ above.
 
 ### Short Vowels and Diphtongs
 
 * /i/ as in /cih/ ‘to ride’. High front unrounded short vowel, like English _i_ in _sit_.
 * /e/ as in /seh/ ‘horse’. Mid front unrounded short vowel, like English _e_ in _set_.
-* /.../ as in /.../ ‘to think’. High central unrounded short vowel; shorter and lower than /.../ described above.
-* /.../ as in /.../ ‘to close’. Mid central unrounded short vowel, slightly higher than _u_ in standard American English _but_.
+* /ɨ/ as in /kɨt/ ‘to think’. High central unrounded short vowel; shorter and lower than /ɨɨ/ described above.
+* /ə/ as in /bət/ ‘to close’. Mid central unrounded short vowel, slightly higher than _u_ in standard American English _but_.
 * /a/ as in /kat/ ‘to cut’, Lower-mid front-of-center unrounded short vowel, similar to French _a_ in _patte_.
-* /.../ as in /.../ ‘to jot down’. Low central unrounded short vowel, identical in quality with its long counterpart /.../ above.
-* /.../ as in /tuk/ ‘to keep’. High back rounded short vowel, lower in quality than its long counterpart /uu/ described above.
+* /ɑ/ as in /kɑt/ ‘to jot down’. Low central unrounded short vowel, identical in quality with its long counterpart /ɑɑ/ above.
+* /u/ as in /tuk/ ‘to keep’. High back rounded short vowel, lower in quality than its long counterpart /uu/ described above.
 * /o/ as in /kon/ ‘film’. Mid back rounded short vowel, slightly diphthongized ... in some environments.
 * /.../ as in /.../ ‘person’. Tense falling diphthong, moving from a position lower than /e/ above to a mid central position.
 * /.../ as in /.../ ‘to sell’. Sometimes falling, sometimes rising, short diphthong, moving from a position somewhat lower than /u/ above to a mid central position.
@@ -371,38 +371,38 @@ Altogether 31 vowel nuclei.
 
 The structure of monosyllables is shown by the formula C1(C2)(C3)V1(V2)(C4), with the limitation that if V2 doesn’t occur, then C4 must occur. In other words, short vowels are always followed by a consonant in stressed syllables. Thus monosyllables containing a short vowel or diphthong will have one of the following three shapes; the third is rare.
 
-1) ... /.../ ‘to close’, /kit/ ‘to think?
-2) ... /sdap/ ‘to hear’ /proh/ ‘male’
-3) ... /.../ (~ /that/) ‘to be located’
+1) CV́C /bət/ ‘to close’, /kit/ ‘to think’
+2) CCV́C /sdap/ ‘to hear’ /proh/ ‘male’
+3) CCCV́C /sthət/ (~ /that/) ‘to be located’
 
 Monosyllables containing a long vowel or diphthong occur in the following five shapes; the fifth is rare.
 
-1) ... /kaa/ ‘work‘ /puu/ ‘uncle’
-2) ... /baan/ ‘to have’ /qaoy/ ‘to give’
-3) ... /.../ ‘to be ill’ /psaa/ ‘market?
-4) ... /.../ ‘much’ /sqaat/ ‘to be clean’
-5) ... /sthaan/ (~ /thaan/) ‘place’ /lkhaon/ ‘drama‘
+1) CV́V /kaa/ ‘work‘ /puu/ ‘uncle’
+2) CV́VC /baan/ ‘to have’ /qaoy/ ‘to give’
+3) CCV́V /chɨɨ/ ‘to be ill’ /psaa/ ‘market?
+4) CCV́VC /craən/ ‘much’ /sqaat/ ‘to be clean’
+5) CCCV́CC /sthaan/ (~ /thaan/) ‘place’ /lkhaon/ ‘drama‘
 
-Sequences of three initial consonants occur only rarely, and then C3 is always /h /.
+Sequences of three initial consonants occur only rarely, and then C3 is always /h/.
 
 ### 2. Disyllables
 
 _Minor disyllables_ consist of an unstressed presyllable of shape CV+, CrV+, CVN+, or CrVN+, followed by a stressed syllable. Minor syllables occur with high frequency in Cambodian, and might almost equal the monosyllable in total inventory if not in frequency. In minor disyllables the vowel of the unstressed presyllable is usually reduced to /o/ in normal speech.
 
 __Examples:__ 
-* ... /... ~ .../ ‘to scratch about’
-* ... /... ~ ... ~ .../ ‘to object’
-* ...  /... ~ ... ~ .../ ‘to originate’
-* ... /... ~ ... ~ .../ ‘eight’
+* CV+Ś /kɑkáay ~ kəkáay/ ‘to scratch about’
+* CrV+Ś /prɑkán ~ prəkán ~ pəkán/ ‘to object’
+* CVN+Ś  /baŋkáət ~ bəŋkáət ~ pəkáət/ ‘to originate’
+* CrVN+Ś /prambə́y ~ prəmbə́y ~ pəmbə́y/ ‘eight’
 
 Major disyllables consist of two stressed syllables in close juncture. Most such words are compounds; some, however, are morphologically simple (as are the first two examples below).
 
 __Examples:__
 
-* ... /.../ (~ /sephiw/) ‘book’
-* ... /.../ ‘language’
-* ... /.../ ‘to pray’
-* ... /.../ ‘insignificant’
+* /sìəwphɨ́w/ (~ /səphɨ́w/) ‘book’
+* /phìəsáa/ ‘language’
+* /bùəŋ-súəŋ/ ‘to pray’
+* /sdúəc-sdáəŋ/ ‘insignificant’
 
 ### 3. Polysyllables
 
@@ -411,9 +411,9 @@ Polysyllables are rare in colloquial speech, and can usually be identified as lo
 **Examples:**
  
 * Three syllables: /.../ ‘usually’
-* Four syllables: /.../ ‘Buddhism’
+* Four syllables: /pút+tə+sáh+snáa/ ‘Buddhism’
 * Five syllables: /.../ ‘royal government’
-* Six syllables:  /.../ ‘editorial’
+* Six syllables:  /wi+cáa+rə+náq+kə+tháa/ ‘editorial’
 
 ## E. Marginal Phonemes and Phoneme Combinations
 
@@ -421,10 +421,10 @@ Certain marginal phonemes and combinations are introduced by French loanwords wh
 
 **Phonemes:**
 
-* /.../ in /.../ check (Fr. cheque)
-* /.../ in /qaazii/ Asia (Fr. Asie)
-* /.../ in /.../ English (Fr. anglais)
+* /š/ in /šaek/ check (Fr. cheque)
+* /z/ in /qaazii/ Asia (Fr. Asie)
+* /g/ in /qaŋglei/ English (Fr. anglais)
 
 **Combinations:**
 
-* /by/ and /.../ in /.../ beer (Fr. biere)
+* /by/ and /eə/ in /byeə/ beer (Fr. biere)
