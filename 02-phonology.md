@@ -220,8 +220,8 @@ Eighty-five two-place initial consonant sequences /CC-/and two three-sequences /
     <td>x</td>
     <td>x</td>
     <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td></td>
+    <td></td>
   <tr>
   <tr>
     <th>s</th>
@@ -302,7 +302,7 @@ Eighty-five two-place initial consonant sequences /CC-/and two three-sequences /
     <td></td>
     <td></td>
     <td>x</td>
-    <td>xx</td>
+    <td>x</td>
     <td></td>
     <td></td>
     <td></td>
@@ -353,7 +353,17 @@ Altogether 31 vowel nuclei.
 
 ### Short Vowels and Diphtongs
 
-...
+* /i/ as in /cih/ ‘to ride’. High front unrounded short vowel, like English _i_ in _sit_.
+* /e/ as in /seh/ ‘horse’. Mid front unrounded short vowel, like English _e_ in _set_.
+* /.../ as in /.../ ‘to think’. High central unrounded short vowel; shorter and lower than /.../ described above.
+* /.../ as in /.../ ‘to close’. Mid central unrounded short vowel, slightly higher than _u_ in standard American English _but_.
+* /a/ as in /kat/ ‘to cut’, Lower-mid front-of-center unrounded short vowel, similar to French _a_ in _patte_.
+* /.../ as in /.../ ‘to jot down’. Low central unrounded short vowel, identical in quality with its long counterpart /.../ above.
+* /.../ as in /tuk/ ‘to keep’. High back rounded short vowel, lower in quality than its long counterpart /uu/ described above.
+* /o/ as in /kon/ ‘film’. Mid back rounded short vowel, slightly diphthongized ... in some environments.
+* /.../ as in /.../ ‘person’. Tense falling diphthong, moving from a position lower than /e/ above to a mid central position.
+* /.../ as in /.../ ‘to sell’. Sometimes falling, sometimes rising, short diphthong, moving from a position somewhat lower than /u/ above to a mid central position.
+* /.../ as in /.../ ‘3rd person pronoun’. Sometimes falling, sometimes rising, short diphthong, moving from a position slightly lower than /o/ above to a mid central position.
 
 ## D. Word Structure
 
