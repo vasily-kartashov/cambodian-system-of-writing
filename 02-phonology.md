@@ -107,9 +107,213 @@ The consonant phonemes of Cambodian are arranged in an articulatory chart below.
 
 Eighty-five two-place initial consonant sequences /CC-/and two three-sequences /CCC-/ occur in Cambodian words. Their distribution is shown below.
 
-... 
+<table>
+  <tr>
+    <th>C<sub>1</sub></th>
+    <th colspan=17>C<sub>2</sub></th>
+    <th colspan=2>C<sub>3</sub></th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>p</th>
+    <th>t</th>
+    <th>c</th>
+    <th>k</th>
+    <th>q</th>
+    <th>b</th>
+    <th>d</th>
+    <th>m</th>
+    <th>n</th>
+    <th>ñ</th>
+    <th>...</th>
+    <th>w</th>
+    <th>y</th>
+    <th>l</th>
+    <th>r</th>
+    <th>s</th>
+    <th>h</th>
+    <th>th</th>
+    <th>kh</th>
+  <tr>
+  <tr>
+    <th>p</th>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+  <tr>
+  <tr>
+    <th>t</th>
+    <td>x</td>
+    <td></td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+  <tr>
+  <tr>
+    <th>c</th>
+    <td>x</td>
+    <td></td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+  <tr>
+  <tr>
+    <th>k</th>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+  <tr>
+  <tr>
+    <th>s</th>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+    <td>x</td>
+    <td></td>
+  <tr>
+  <tr>
+    <th>q</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  <tr>
+  <tr>
+    <th>m</th>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+  <tr>
+  <tr>
+    <th>l</th>
+    <td>x</td>
+    <td></td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+    <td>x</td>
+    <td>xx</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>x</td>
+    <td></td>
+    <td>x</td>
+  <tr>
+</table>
 
-when the stops /p t c k/ occur as the first member of two-place initial consonant sequences /CC-/, they are unaspirated before /r s h/, slightly aspirated before voiceless stops and all continuants other than /x/ (except in the homorganic sequence /im-/), and released with slight vocalisim pefore /q b d/ and in the sequence /...-/. When the consonants /q m l/ occur as the first consonant of /CC-/ sequences, they are released with slight vocalism.
+When the stops /p t c k/ occur as the first member of two-place initial consonant sequences /CC-/, they are unaspirated before /r s h/, slightly aspirated before voiceless stops and all continuants other than /x/ (except in the homorganic sequence /im-/), and released with slight vocalisim pefore /q b d/ and in the sequence /...-/. When the consonants /q m l/ occur as the first consonant of /CC-/ sequences, they are released with slight vocalism.
 
 ## C. Vowels
 
@@ -124,11 +328,30 @@ Altogether 31 vowel nuclei.
 
 ### Phonetic Key
 
-**Long Vowels and Diphtongs**:
+### Long Vowels and Diphtongs
 
-...
+* /ii/ as in /ciik/ ‘to dig’. High front unrounded vowel like English ee in cheek.
+* /../ as in /.../ ‘playing cards’. Falling diphthong, moving from a high front to a mid central position.
+* /ee/ as in /.../ ‘to play’. Higher-mid front unrounded vowel with lax and breathy articulation; similar to French _ée_ in _année_.
+* /ei/ as in /.../ ‘to be young’. Tense diphthong starting at a point lower than, and ending at a point higher than, /ee/ above.
+* /../ as in /.../ ‘to quit’. Lower-mid front unrounded vowel with lax and breathy articulation; similar to French _ai_ in _aide_. Occurs long only.
+* /../ as in /.../ ‘to hear’. High central unrounded vowel made by raising the center of the tongue toward the soft palate while keeping the lips flat or spread.
+* /../ as in /.../ ‘to believe’. Falling diphthong, moving from a high central to a mid central position.
+* /.../ as in /.../ ‘on’. Higher-mid central unrounded vowel with lax and breathy articulation; similar to French _eu_ in _peu_.
+* /.../ as in /.../ ‘10,000’. Tense diphthong moving from a position lower than, and ending at a point higher than, /.../ above.
+*  /aa/ as in /kaa/ ‘work’, Tense lower-mid front-of-center unrounded vowel similar to the French _a_ in _va_. (This vowel is fronter and higher than the English _a_ in _Father_; to pronounce it as such would confuse it with the vowel /.../ to the ear of a Cambodian).
+* /ae/ as /kmae/ ‘Khmer’. Falling diphthong, starting at a point similar to English _a_ in _sat_ and moving to a position similar to English _e_ in _set_.
+* /.../ as in /.../ ‘be born’. Falling diphthong, moving from the position of /aa/ described above, to the position of /../ described above.
+* /ao/ as in /cao/ ‘thief’. Falling diphthong, moving from a sound similar to English _a_ in _Father_ to a sound similar to the English _o_ in _song_.
+* /../ as in /.../ ‘neck’. Low central unrounded vowel, backer than the English _a_ in _Father_, but fronter than the English _aw_ in _law_.
+* /uu/ as in /tuuk/ ‘boat’. High back rounded vowel, like the English _oo_ in _boot_.
+* /.../ as in /.../ ‘hat’. Falling diphthong, moving from the position of /uu/ described above to a position somewhat lower than /.../ above.
+* /.../ as in /koo/ ‘ox’. Higher-mid back rounded vowel with lax and breathy articulation, similar to French ... in ....
+* /ou/ as in /koun/ ‘offspring’. Tense falling diphthong, moving from a position lower than, to a position higher than, /oo/ above; like American English _o_ in _go_.
+* /.../ as in /.../ ‘to seek’. Lower-mid back semi-rounded vowel with lax and breathy articulation. Occurs only long.
+* /.../ as in /.../ ‘color’. Falling diphthong, moving from the position of /.../ described above to a position lower and backer than /.../ above.
 
-**Short Vowels and Diphtongs**:
+### Short Vowels and Diphtongs
 
 ...
 
@@ -136,11 +359,40 @@ Altogether 31 vowel nuclei.
 
 ### 1. Monosyllables
 
-...
+The structure of monosyllables is shown by the formula C1(C2)(C3)V1(V2)(C4), with the limitation that if V2 doesn’t occur, then C4 must occur. In other words, short vowels are always followed by a consonant in stressed syllables. Thus monosyllables containing a short vowel or diphthong will have one of the following three shapes; the third is rare.
+
+1) ... /.../ ‘to close’, /kit/ ‘to think?
+2) ... /sdap/ ‘to hear’ /proh/ ‘male’
+3) ... /.../ (~ /that/) ‘to be located’
+
+Monosyllables containing a long vowel or diphthong occur in the following five shapes; the fifth is rare.
+
+1) ... /kaa/ ‘work‘ /puu/ ‘uncle’
+2) ... /baan/ ‘to have’ /qaoy/ ‘to give’
+3) ... /.../ ‘to be ill’ /psaa/ ‘market?
+4) ... /.../ ‘much’ /sqaat/ ‘to be clean’
+5) ... /sthaan/ (~ /thaan/) ‘place’ /lkhaon/ ‘drama‘
+
+Sequences of three initial consonants occur only rarely, and then C3 is always /h /.
 
 ### 2. Disyllables
 
-...
+_Minor disyllables_ consist of an unstressed presyllable of shape CV+, CrV+, CVN+, or CrVN+, followed by a stressed syllable. Minor syllables occur with high frequency in Cambodian, and might almost equal the monosyllable in total inventory if not in frequency. In minor disyllables the vowel of the unstressed presyllable is usually reduced to /o/ in normal speech.
+
+__Examples:__ 
+* ... /... ~ .../ ‘to scratch about’
+* ... /... ~ ... ~ .../ ‘to object’
+* ...  /... ~ ... ~ .../ ‘to originate’
+* ... /... ~ ... ~ .../ ‘eight’
+
+Major disyllables consist of two stressed syllables in close juncture. Most such words are compounds; some, however, are morphologically simple (as are the first two examples below).
+
+__Examples:__
+
+* ... /.../ (~ /sephiw/) ‘book’
+* ... /.../ ‘language’
+* ... /.../ ‘to pray’
+* ... /.../ ‘insignificant’
 
 ### 3. Polysyllables
 
@@ -159,8 +411,10 @@ Certain marginal phonemes and combinations are introduced by French loanwords wh
 
 **Phonemes:**
 
-...
+* /.../ in /.../ check (Fr. cheque)
+* /.../ in /qaazii/ Asia (Fr. Asie)
+* /.../ in /.../ English (Fr. anglais)
 
 **Combinations:**
 
-...
+* /by/ and /.../ in /.../ beer (Fr. biere)
