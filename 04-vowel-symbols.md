@@ -174,7 +174,142 @@ The value of a given symbol may also depend on its environment; i.e. on the fina
 
 ## C. The Independent Vowel Symbols
 
-...
+The independent vowel symbols are called ... /.../ ‘complete vowels’ because they incorporate both an initial consonant and a vowel. In the chart below, symbols 1-10 include an initial /q-/and are listed in the official dictionary along with other words that are spelled with an initial ... and the equivalent vowel symbol; e.g. words spelled with the independent initial vowel ...  /.../ follow words spelled with an initial ... /.../, Symbols 11 and 12 include an initial /r-/, and follow all words spelled with initial ...; symbols 13 and 14 include an initial /l-/ and follow all words spelled with an initial ....
+
+Since the independent vowel symbols occur in a relatively small number of words, there is a certain amount of inconsistency in their use and pronunciation by Cambodians themselves, especially with examples 1-5 and 8-10 below. Some independent vowels, however, occur in quite common vocabulary items, such as number 4 in ... /.../ ‘father’, number 9 in ... /qaoy/ ‘to give’, and number 14 in ... /.../ ‘to hear’. Symbols 1-5 occur with both 1st and 2nd series values, but most frequently with 1st series values. In the chart below, the first value given for each symbol is the value that it has in the majority of the words in which it occurs. Less common values are shown in succeeding examples. Each symbol is followed by its equivalent spelling.
+
+<table>
+  <tr>
+    <th>Symbol</th>
+    <th>Name</th>
+    <th>Equivalent</th>
+    <th>Value</th>
+    <th>Example</th>
+  </tr>
+  <tr>
+    <td rowspan=3>1. ...</td>
+    <td rowspan=3>sraq qeq</td>
+    <td>...</td>
+    <td>/.../</td>
+    <td>... /.../ not</td>
+  </tr>
+  <tr>
+    <td>...</td>
+    <td>/.../</td>
+    <td>... /.../ the moon</td>
+  </tr>
+  <tr>
+    <td>...</td>
+    <td>/.../</td>
+    <td>... /.../ now</td>
+  </tr>
+  <tr>
+    <td>2. ...</td>
+    <td>sraq ...</td>
+    <td>...</td>
+    <td>/.../</td>
+    <td>... /.../ northeast</td>
+  </tr>
+  <tr>
+    <td rowspan=3>3. ...</td>
+    <td rowspan=3>sraq qoq</td>
+    <td>...</td>
+    <td>/qo-/</td>
+    <td>... /.../ official of ministerial rank</td>
+  </tr>
+  <tr>
+    <td>...</td>
+    <td>/qu-/</td>
+    <td>... /.../ example</td>
+  </tr>
+  <tr>
+    <td>...</td>
+    <td>/qao/</td>
+    <td>... /.../ layman</td>
+  </tr>
+  <tr>
+    <td rowspan=2>4. ...</td>
+    <td rowspan=2>sraq qou</td>
+    <td>...</td>
+    <td>/qou/</td>
+    <td>... /.../ camel</td>
+  </tr>
+  <tr>
+    <td>...</td>
+    <td>/quu/</td>
+    <td>... /quun/ dificient (lit.)</td>
+  </tr>
+  <tr>
+    <td>5. ...</td>
+    <td>sraq ...</td>
+    <td>...</td>
+    <td>/.../</td>
+    <td>... /.../ father</td>
+  </tr>
+  <tr>
+    <td>6. ...</td>
+    <td>sraq qae</td>
+    <td>...</td>
+    <td>/qae/</td>
+    <td>... /qae/ at, as for</td>
+  </tr>
+  <tr>
+    <td>7. ...</td>
+    <td>sraq qay</td>
+    <td>...</td>
+    <td>/qay/</td>
+    <td>... /.../ Erawan</td>
+  </tr>
+  <tr>
+    <td>8. ...</td>
+    <td>sraq qao</td>
+    <td>...</td>
+    <td>/qao/</td>
+    <td>... /qaop/ to embrace</td>
+  </tr>
+  <tr>
+    <td>9. ...</td>
+    <td>sraq qao</td>
+    <td>...</td>
+    <td>/qaop/</td>
+    <td>... /qaoy/ to give</td>
+  </tr>
+  <tr>
+    <td>10. ...</td>
+    <td>sraq qaw</td>
+    <td>...</td>
+    <td>/qaw/</td>
+    <td>... /.../ waterplant</td>
+  </tr>
+  <tr>
+    <td>11. ...</td>
+    <td>sraq ...</td>
+    <td>...</td>
+    <td>/.../</td>
+    <td>... /.../ bamboo</td>
+  </tr>
+  <tr>
+    <td>12. ...</td>
+    <td>sraq ...</td>
+    <td>...</td>
+    <td>/.../</td>
+    <td>... /.../ or</td>
+  </tr>
+  <tr>
+    <td>13. ...</td>
+    <td>sraq ...</td>
+    <td>...</td>
+    <td>/.../</td>
+    <td>... /.../ to commemorate</td>
+  </tr>
+  <tr>
+    <td>14. ...</td>
+    <td>sraq ...</td>
+    <td>...</td>
+    <td>/.../</td>
+    <td>... /.../ to hear</td>
+  </tr>
+</table>
 
 ## D. Redundancy
 
