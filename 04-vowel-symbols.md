@@ -170,6 +170,23 @@ Cambodian vowel symbols may consist of one or a combination of elements written 
 
 The value of a given symbol may also depend on its environment; i.e. on the final consonant symbol that follows it in the same syllable, and on stress factors. Vowel sounds are also represented by the absence of a vowel symbol, by certain configurations of consonant symbols, and by various diacritics. It is thus clear that the Cambodian syllable must be read as a _configuration_. In the following chart, all the configurations by which vowels are regularly represented are listed in the order in which they occur in the official _Cambodian Dictionary_ of the Buddhist Institute (Bibliography Item 4), and each configuration is exemplified in both series.
 
+<table>
+  <tr>
+    <th rowspan=2>Symbol</th>
+    <th>1st Series</th>
+    <th>2nd Series</th>
+  </tr>
+  <tr>
+    <th>Value and Exemplification</th>
+    <th>Value and Exemplification</th>
+  </tr>
+  <tr>
+    <td>1. ...</td>
+    <td>/.../ ... /.../ neck</td>
+    <td>/.../ ... /.../ mute</td>
+  </tr>
+</table>
+
 ...
 
 ## C. The Independent Vowel Symbols
