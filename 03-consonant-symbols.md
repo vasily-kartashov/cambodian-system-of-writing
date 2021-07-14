@@ -293,22 +293,22 @@ There are thirty-three consonant symbols in the Cambodian writing system. As in 
 
 ### 1. The Two Series
 
-Notice that the names of some consonant symbols have the vowel /aa/ while others have the vowel /.../. Consonants which are pronounced with an inherent /aa/ vowel are called .... /qakhoosaq/ ‘voiceless’ in Cambodian, and consonants which are pronounced with an inherent /.../ are called ... /khoosaaq/ ‘voiced’, based on the values which they had in the Indic writing system.
+Notice that the names of some consonant symbols have the vowel /ɑɑ/ while others have the vowel /ɔɔ/. Consonants which are pronounced with an inherent /ɑɑ/ vowel are called .... /qakhoosaq/ ‘voiceless’ in Cambodian, and consonants which are pronounced with an inherent /ɔɔ/ are called ... /khoosaq/ ‘voiced’, based on the values which they had in the Indic writing system.
 
 These terms are not relevant to the phonological values of the two series of consonants in modern Cambodian, since each consonant symbol has the same phonological value as its counterpart in the opposite series. Thus we will refer to them simply as the _1st Series_ and _2nd Series_ respectively. The distinction between the two series is essential to reading Cambodian, since the value of a following vowel symbol is determined by the series to which the initial, or “governing,” consonant symbol belongs. In other words, the Cambodian writing system doubles the function of its vowel symbols by using two sets of consonant symbols with a single set of vowel symbols. It follows that there are two consonant symbols for every consonant sound, and two values for every vowel symbol. Thus Cambodian has a _syllabic_ writing system, in the sense that the pronunciation of syllables is represented by _configurations_ of symbols, as opposed to an _alphabetic_ writing system, where a sequence of symbols has a one-to-one relationship with a sequence of sounds. This idea of configuration is strengthened by the fact that yowel symbols are written before, above, below, after, and around the consonant
 symbol after which they are pronounced.
 
 ### 2. Conversion
 
-Those ist series symbols which lack a counterpart in the 2nd series, namely ... /.../, ... /.../, ... /.../, and ... /.../ can be “converted” to 2nd series symbols by the addition of the diacritic ... /.../ (...) to the 1st series symbol, giving ... /.../, ... /.../, ... /.../, and ... /.../, so that a following vowel symbol is pronounced with its 2nd series value. Those 2nd series symbols which have no counterparts in the 1st series, namely ... /.../, ... /.../, ... /.../, ... /.../, ... /.../, and ... /.../, can be converted to ist series symbols by the addition of the diacritic .... /.../ (...), giving ... /.../, ... /.../, ... /.../, ... /.../, and ... /.../. When a vowel symbol that is written above the consonant symbol occurs with a converted consonant symbol, the /.../ (...) and /.../ (...) are replaced by the ... /.../ (...) under the consonant symbol; e.g. .... /.../ ‘to eat’, ... /.../ .... However, the /.../ is usually written above a converted ... or ... despite a superscript vowel, although either form may occur; e.g. ... ~ ... /.../ ‘a kind of toad’; ... ~ ... /qii/ ‘an interjection’. In the dictionary, words spelled with these converted symbols follow words spelled with their counterparts and _having the same vowel symbol_.
+Those ist series symbols which lack a counterpart in the 2nd series, namely ប /bɑɑ/, ស /sɑɑ/, ហ /hɑɑ/, and អ /qɑɑ/ can be “converted” to 2nd series symbols by the addition of the diacritic ... /.../ (...) to the 1st series symbol, giving ... /bɔɔ/, ... /sɔɔ/, ... /hɔɔ/, and ... /qɔɔ/, so that a following vowel symbol is pronounced with its 2nd series value. Those 2nd series symbols which have no counterparts in the 1st series, namely ង /ŋɔɔ/, ញ /ñɔɔ/, ម /mɔɔ/, យ /yɔɔ/, and វ /wɔɔ/, can be converted to ist series symbols by the addition of the diacritic .... /.../ (...), giving ... /ŋɑɑ/, ... /ñɑɑ/, ... /mɑɑ/, ... /yɑɑ/, ... /rɑɑ/ and ... /wɑɑ/. When a vowel symbol that is written above the consonant symbol occurs with a converted consonant symbol, the /.../ (...) and /.../ (...) are replaced by the ... /.../ (...) under the consonant symbol; e.g. .... /.../ ‘to eat’, ... /məɨn/ ‘10,000‘. However, the /trəysap/ is usually written above a converted ... or ... despite a superscript vowel, although either form may occur; e.g. ... ~ ... /hiiŋ/ ‘a kind of toad’; ... ~ ... /qii/ ‘an interjection’. In the dictionary, words spelled with these converted symbols follow words spelled with their counterparts and _having the same vowel symbol_.
 
-The /.../ is also used to convert the symbol ... /.../ to ... /.../, which does not otherwise exist in the 1st series. All words spelled with ... follow all words spelled with ... in the dictionary order.
+The /.../ is also used to convert the symbol ប /bɑɑ/ to ... /pɑɑ/, which does not otherwise exist in the 1st series. All words spelled with ... follow all words spelled with ប in the dictionary order.
 
-### 3. The Symbol ... /baa/
+### 3. The Symbol ប /bɑɑ/
 
 When ... /b/ is followed by the vowel symbol ..., it has the alternative form ... to distinguish it from ... + ... and from ...; e.g. .... /baay/ ‘cooked rice‘ ..., /caay/ ‘to spend‘, ... /hay/ ‘horse (lit.)‘.
 
-The symbol ... /b/ is pronounced /p/ in the following circumstances:
+The symbol ប /b/ is pronounced /p/ in the following circumstances:
 
 a) When it is converted to /p/ by the /.../: ... or ...
 
@@ -322,7 +322,7 @@ b) When it occurs with a subscript:
 
 Such words follow words spelled with #5 in the dictionary.
 
-c) In some words an initial ... is pronounced /p/ even though it is written neither with the /.../ nor a subscript. Such words are listed inconsistently in the dictionary, sometimes occurring among words spelled with an initial ..., and sometimes among words spelled with initial ...:
+c) In some words an initial ប is pronounced /p/ even though it is written neither with the /.../ nor a subscript. Such words are listed inconsistently in the dictionary, sometimes occurring among words spelled with an initial ប, and sometimes among words spelled with initial ...:
 
 * ... /paccay/ money (clergy)
 * ... /.../ the present
@@ -332,12 +332,12 @@ d) In final position:
 * ... /prap/ to tell
 * ... /chup/ to stop
 
-### 4. The Symbol ... /taa/
+### 4. The Symbol ត /tɑɑ/
 
-The symbol ... is normally pronounced /t/ (... /taa/ ‘old man’, ... /.../ ‘to examine’), but when it occurs as the initial symbol of disyllabic words whose first syllable ends in a nasal /m, n, ñ, or .../, it is pronounced /d/; e.g. ... /.../ gift. In the official _Cambodian Dictionary_ .. is used as the initial for all disyllables whose underlying form is spelled with a ... or ... e.g.:
+The symbol ត is normally pronounced /t/ (... /taa/ ‘old man’, ... /.../ ‘to examine’), but when it occurs as the initial symbol of disyllabic words whose first syllable ends in a nasal /m, n, ñ, or .../, it is pronounced /d/; e.g. ... /.../ gift. In the official _Cambodian Dictionary_ .. is used as the initial for all disyllables whose underlying form is spelled with a ... or ... e.g.:
 
-* ... /.../ to continue > ... /.../ extension
-* ... /tlay/ to be valuable > ... /.../ value
+* ត /tɑɑ/ to continue > ... /dɑmnɑɑ/ extension
+* ... /tlay/ to be valuable > ... /dɑmlay/ value
 
 Derivatives of bases spelled with ... /d/ are spelled with ....
 
