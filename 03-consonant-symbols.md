@@ -300,15 +300,50 @@ symbol after which they are pronounced.
 
 ### 2. Conversion
 
-...
+Those ist series symbols which lack a counterpart in the 2nd series, namely ... /.../, ... /.../, ... /.../, and ... /.../ can be “converted” to 2nd series symbols by the addition of the diacritic ... /.../ (...) to the 1st series symbol, giving ... /.../, ... /.../, ... /.../, and ... /.../, so that a following vowel symbol is pronounced with its 2nd series value. Those 2nd series symbols which have no counterparts in the 1st series, namely ... /.../, ... /.../, ... /.../, ... /.../, ... /.../, and ... /.../, can be converted to ist series symbols by the addition of the diacritic .... /.../ (...), giving ... /.../, ... /.../, ... /.../, ... /.../, and ... /.../. When a vowel symbol that is written above the consonant symbol occurs with a converted consonant symbol, the /.../ (...) and /.../ (...) are replaced by the ... /.../ (...) under the consonant symbol; e.g. .... /.../ ‘to eat’, ... /.../ .... However, the /.../ is usually written above a converted ... or ... despite a superscript vowel, although either form may occur; e.g. ... ~ ... /.../ ‘a kind of toad’; ... ~ ... /qii/ ‘an interjection’. In the dictionary, words spelled with these converted symbols follow words spelled with their counterparts and _having the same vowel symbol_.
+
+The /.../ is also used to convert the symbol ... /.../ to ... /.../, which does not otherwise exist in the 1st series. All words spelled with ... follow all words spelled with ... in the dictionary order.
 
 ### 3. The Symbol ... /baa/
 
-...
+When ... /b/ is followed by the vowel symbol ..., it has the alternative form ... to distinguish it from ... + ... and from ...; e.g. .... /baay/ ‘cooked rice‘ ..., /caay/ ‘to spend‘, ... /hay/ ‘horse (lit.)‘.
+
+The symbol ... /b/ is pronounced /p/ in the following circumstances:
+
+a) When it is converted to /p/ by the /.../: ... or ...
+
+* ... /paa/ father
+* ... /.../ flute
+
+b) When it occurs with a subscript:
+
+* ... /.../ husband 
+* ... /.../ to use
+
+Such words follow words spelled with #5 in the dictionary.
+
+c) In some words an initial ... is pronounced /p/ even though it is written neither with the /.../ nor a subscript. Such words are listed inconsistently in the dictionary, sometimes occurring among words spelled with an initial ..., and sometimes among words spelled with initial ...:
+
+* ... /paccay/ money (clergy)
+* ... /.../ the present
+
+d) In final position:
+
+* ... /prap/ to tell
+* ... /chup/ to stop
 
 ### 4. The Symbol ... /taa/
 
-...
+The symbol ... is normally pronounced /t/ (... /taa/ ‘old man’, ... /.../ ‘to examine’), but when it occurs as the initial symbol of disyllabic words whose first syllable ends in a nasal /m, n, ñ, or .../, it is pronounced /d/; e.g. ... /.../ gift. In the official _Cambodian Dictionary_ .. is used as the initial for all disyllables whose underlying form is spelled with a ... or ... e.g.:
+
+* ... /.../ to continue > ... /.../ extension
+* ... /tlay/ to be valuable > ... /.../ value
+
+Derivatives of bases spelled with ... /d/ are spelled with ....
+
+* ... /.../ to walk > ... /.../ process
+
+However, due to the homophony between ... and ... in this position, such words may be found spelled either way.
 
 ### 5. The Retroflexes
 
@@ -334,5 +369,15 @@ Symbols.
 ...
 
 ## D. Final Consonants
+
+Although only thirteen consonants occur finally in Cambodian syllables (See Chap. II, A), all the consonant symbols in Chart 1 except ..., ..., ..., ..., ..., and ... are used to represent final consonants in Cambodian.
+
+Although the symbol ... occurs in many words, it is not pronounced, since final /-r/ does not occur in Standard Cambodian. However, it sometimes server to distinguish orthographicall between homonyms, e.g.:
+
+* ... /kaa/ to address (a letter) : ... /kaa/ work
+* ... /kuu/ pair : ... /kuu/ to draw
+* ... /pii/ from : ... /pii/ two
+
+The symbols ..., ..., ... and ... represent final /-q/ after the vowels /a, aa, ..., ..., .., ..., ..., ..., .../, and final /-k/ elsewhere. A given final consonant may be presented by a variety of symbols. In the chart below the most common, or characteristic, representation is exemplified first.
 
 ...
