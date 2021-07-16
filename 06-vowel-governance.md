@@ -10,11 +10,11 @@ As shown in Chapter II, the pronunciation of a vowel symbol is determined, or �
 
 * ក្បាល /kbaal/ head 
 * ស្អែក /sqaek/ tomorrow
-* ... /.../ different
+* ... /pseiŋ/ different
 
 - Both superscript and subscript are Series 2; vowel is Series 2:
 
-* ... /.../ sufficient 
+* ... /lmɔɔm/ sufficient 
 * ... /pcum/ to assemble 
 * ម្នាស់ /.../ pineapple
 
@@ -57,7 +57,7 @@ As shown in Chapter II, the pronunciation of a vowel symbol is determined, or �
     <td>m</td>
     <td>n</td>
     <td>ñ</td>
-    <td>...</td>
+    <td>ŋ</td>
   </tr>
   <tr>
     <td>w</td>
@@ -71,35 +71,35 @@ a) In the following examples, the dominant consonant belongs to the 1st series, 
 
 Superscript is dominant, subscript is passive:
 
-* ... /.../ fish
-* ... /pnaek/ section
-* ... /swaa/ monkey
+* ត្រី /trəy/ fish
+* ផ្នែក /pnaek/ section
+* ស្វា /swaa/ monkey
 
 Superscript is passive, subscript is dominant:
 
-* ... /mhoup/ food 
-* ... /mdaay/ mother 
-* .. /.../ pretty
+* ម្ហូប /mhoup/ food 
+* ម្តាយ /mdaay/ mother 
+* ល្អ​ /lqɑɑ/ pretty
 
 b) In the following examples, the dominant consonant belongs to the 2nd series, so the vowel has its 2nd series value. 
 
 Superscript is dominant, subscript is passive:
 
-* ... /.../ be hungry
-* ... /.../ eyes 
-* ... /.../ together
+* ឃ្លាន /kliən/ be hungry
+* ... /pnɛɛk/ eyes 
+* ... /kniə/ together
 
 Superscript is passive, subscript is dominant:
 
 * ... /mteeh/ a pepper 
-* ... /mcul/ needle
+* ម្ជុល /mcul/ needle
 
 Since both consonant symbols in these examples belong to the same series, there is no problem of governance; they are listed to provide contrast with the 1st series examples in a) above.
 
 2) When both superscript and subscript are dominant, the series of the vowel is determined by the series of subscript. In the following examples, the superscript is 1st series while the subscript is 2nd series, so the vowel has its 2nd
 series value.
 
-* ... /.../ house
+* ផ្ទះ /.../ house
 * ... /.../ to know
 * ... /.../ to be high
 
@@ -115,18 +115,18 @@ __RULE__: In any syllable which is preceded in the same word by consonants of di
 
 a) C<sub>1</sub> is 1st series, so the vowel of both syllables is 1st series:
 
-* ... /.../ to be careful 
-* ... /.../ cigarette
-* ... /.../ criss-crossed
-* ... /.../ to like
-* ... /.../ place 
-* ... /.../ birth
+* ... /prɑyat/ to be careful 
+* ... /barəy/ cigarette
+* ... /crɑwat/ criss-crossed
+* ... /srɑlañ/ to like
+* ... /kɑnlaeŋ/ place 
+* ... /kɑmnaət/ birth
 
 b) C<sub>1</sub> is 2nd series, so the vowel of both syllables is 2nd series:
 
-* ... /.../ dawn 
-* ... /.../ a perch
-* ... /.../ thought 
+* ... /prɔlɨm/ dawn 
+* ... /trɔnum/ a perch
+* ... /kumnɨt/ thought 
 * ... /.../ weight
 
 In such words as these, of course, the problem of governance doesn’t arise, since the initials of both syllables are 2nd series, with the consequence that the vowels of both syllables are 2nd series. However, these examples do illustrate the principle of “vowel harmony” which operates in disyllables whose second syllable has an initial continuant.
@@ -135,27 +135,27 @@ In such words as these, of course, the problem of governance doesn’t arise, si
 
 a) 1st series vowel in both syllables:
 
-* ... /.../ to scratch about 
+* ... /kɑkaay/ to scratch about 
 * ... /kaafei/ coffee
-* ... /.../ assigned to 
-* ... /.../ to originate
+* ... /prɑcam/ assigned to 
+* ... /bɑŋkaət/ to originate
 
 b) 1st series vowel in first syllable, 2nd series vowel in second syllable:
 
-* ... /.../ country
+* ... /prɑteeh/ country
 * ... /.../ cool
-* ... /.../ fish hook
-* ... /.../ to illumine
+* ... /sɑntuuc/ fish hook
+* ... /bɑmplɨɨ/ to illumine
 
 In a few words having a 2nd series stop or spirant in the second syllable, vowel harmony is maintained by requiring a 2nd series initial consonant in the first syllable.
 
 * ... /.../ to flap about
-* ... /.../ to discuss
-* ... /.../ distance from toes to fingertips
+* ... /cɔcɛɛk/ to discuss
+* ... /trɔtuuŋ/ distance from toes to fingertips
 
 In a few non-harmonic disyllables, however, the typical order is reversed, with a 2nd series vowel in the first syllable and a first series vowel in the second syllable.
 
-* ... /.../ thing 
+* ... /rɔbɑh/ thing 
 * ... /.../ stairs
 
 ### 3. Exceptions to the Rule
@@ -163,10 +163,10 @@ In a few non-harmonic disyllables, however, the typical order is reversed, with 
 In some disyllables with an initial ... in the second syllable, a 2nd series consonant in the first syllable imposes its series on the second syllable; i.e. ... functions as a passive consonant.
 
 * ... /tumhim/ size
-* ... /.../ temple
-* ... /.../ soldier
+* ... /wihiə/ temple
+* ... /tiəhiən/ soldier
 
-These words are sometimes written with a converted ...; e.g., ..., thus conforming to the rule. In monosyllables, however, ... is always dominant, e.g., ... /.../ ‘papaya‘.
+These words are sometimes written with a converted ...; e.g., ..., thus conforming to the rule. In monosyllables, however, ... is always dominant, e.g., ល្ហុង /lhoŋ/ ‘papaya‘.
 
 Conversely, in some disyllables (especially in some disyllables with initial ...), a normally dominant initial consonant in the first syllable fails to impose its series on a following passive consonant:
 
@@ -205,10 +205,10 @@ Conversely, in some disyllables (especially in some disyllables with initial ...
 
 In longer words, the rule applies much less consistently. The following two examples are regular with regard to the rule.
 
-1) ... /.../ to like
-2) ... /.../ miserable
+1) ... /caettənaa/ to like
+2) ... /weettəniə/ miserable
 
 In the first example, the syllable ... is pronounced /-naa/ because of a preceding ist series ...; in the second example, —... is pronounced /.../ because of a preceding 2nd series .... In the following two examples, however, the first is regular, the second irregular:
 
-1) ... /.../ century
-2) ... /.../ independence (rather than the expected */.../).
+1) ... /saqkəraac/ century
+2) ឯករាជ /qaekkəriəc/ independence (rather than the expected */qaekkəraac/).
