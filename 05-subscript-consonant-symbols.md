@@ -10,17 +10,23 @@ When two consonant symbols are pronounced consecutively (without an intervening 
 
 ### 1. Shapes of the Subscripts
 
-a) 
-b)
-c)
-d)
-e)
-f)
-g)
+a) The subscripts ...  /.../, ... /.../, ... /.../, ... /.../, ... /.../ are identical in form with their superscript counterparts.
+
+b) The subscripts ... /.../, ... /.../, ... /.../, ... /.../, ... /.../, ... /.../, ... /.../, and ... /.../ are identical with their superscript counterparts except that some small embellishment, usually referred to as ... /.../ ‘hair’, is omitted from top of the subscript: ... in the first six examples, ... in the case of ... /.../, and ... in the case of ... /.../.
+
+c) The subseripts ... /.../, ... /.../, ... /.../ are reproduetions of their superscripts whose final vertical strokes extend upward and end in a “hook” on a line with the hooks of the superscript.
+
+d) The subscripts ... /.../, ... /.../, ... /.../ are also characterized by a right-hand vertical stroke which hooks on a line even with the top of the superscript, but their subscript portions bear little resemblance to their counterparts.
+
+e) The remaining subscripts bear little or no formal resemblance to their counterparts: ........
+
+f) The subscript ... /.../ precedes its superscript, e.g. ... /.../ ‘fish’.
+
+g) When ... /.../ occurs as a superscript the ... element is omitted, e.g. ... /.../ ‘to order’; when ... occurs as its own subscript, it takes the full torm ..., e.g. ... /.../ ’young lady’; otherwise it takes the form ..., e.g. ... /.../ ‘intelligence’.
 
 ### 2. The Subscript ...
 
-...
+The subscript ... serves as a subseript both for ... /.../ and ... /.../. In initial sequences the subscript ... is always pronounced /d/; e.g., ... /.../ ‘husband’, ... /kdaa/ ‘plank, board’. Medially, however, its pronunciation is unpredictable. As a general rule, it is pronounced /d/ when it occurs as a subscript to ..., and /t/ when subscript to ...; e.g., ... /.../ ‘to grow, raise’; ... /.../ ‘to criticize”. In some words, however, it is also pronounced /d/ when subscript to ...; e.g., ... /.../ ‘to pity’; ... /.../ ‘family, lineage’. Since ... serves as subscript for both ... and ..., and ... has no subscript form, there are only thirty-one subscripts, compared with thirty-three consonant symbols.
 
 ### 3. Special Combinations
 
@@ -47,26 +53,31 @@ This rule results in a particularly complex spelling in the common word ...
 
 * ... /.../ ‘now’.
 
-
 ### 5. Intial Clusters
 
-#### a)
+a) With a very few exceptions, all occurrences of initial written clusters represent two-place initial sequences /CC-/ phonologically. When one of the aspirated consonant symbols (..., ..., ..., ..., etc.) occurs as a superscript, it represents an unaspirated stop phonologically. Aspirated consonant symbols usually occur as superscripts in words where the subscript is a voiceless consonant or a nasal, e.g.:
 
-... 
+* ... /.../ horse, 
+* ... /.../ I
+* ... /ckae/ dog
 
-#### b)
+Unaspirated consonant symbols usually occur as superscripts when the subscript is a voiced consonant or /r/; e.g., ... /kbaal/‘head’, ... /.../ ‘atusbana’, /kruu/ ‘teacher’, This difference in representing the same initial consonant can be explained by the phonetic fact that in sequences of the first type, the first consonant is usually pronounced with slight phonetic aspiration, while in sequences of the second type the first consonant is usually unaspirated. These differences are non-contrastive, however, from a phonological point of view; i.e. no two initial consonant sequences ever contrast phonemically with regard to aspiration. The way in which initial consonant sequences are pronounced varies from dialect to dialect, with the result that the phonetic differences are not consistently maintained in the writing system. For example, ... /kmae/ ‘Khmer’ is spelled with an aspirated initial, while ... /.../ ‘to be young’ is spelled with an unaspirated initial, although the sequence /km-/ is phonetically identical in the two words.
 
-...
+Thus while approximately 180 written sequences occur, there are only eightyfive phonologically permissible /CC-/ sequences at the beginning of Cambodian words.
+
+b) When an initial cluster has an aspirated consonant symbol as subscript, the cluster represents a three-place initial consonant sequence /CCC-/. Only three such sequences occur in initial position: 
+
+* ... /sthaanii/ ‘station’
+* ... /.../ ‘20‘
+* ... /lkhaon/ ‘drama’
 
 ### 6. Medial Clusters
 
-#### a) One Subscript.
+a) _One Subscript_.
 
 ....
 
-#### b) Two Subscripts.
-
-Three consonant symbols are written vertically in medial position in a few words, in which case the first consonant is written as a superscript and the following two are written as subscripts in the order of their pronunciation. Almost all such words contain a medial phonological sequence consisting of a nasal as the final consonant of the first syllable, followed by a syllable whose initial consonant is a stop homorganic with the preceding nasal, plus /-r-/
+b) _Two subscripts_. Three consonant symbols are written vertically in medial position in a few words, in which case the first consonant is written as a superscript and the following two are written as subscripts in the order of their pronunciation. Almost all such words contain a medial phonological sequence consisting of a nasal as the final consonant of the first syllable, followed by a syllable whose initial consonant is a stop homorganic with the preceding nasal, plus /-r-/
 
 * កញ្ជ្រោង /.../ fox
 * កន្ត្រៃ /.../ scissors
