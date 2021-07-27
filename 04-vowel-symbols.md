@@ -334,4 +334,332 @@ In the preceding sections, it can be seen that the notation of Cambodian vowel s
 
 The consonant symbol ... is used as a base for 1st series syllables, and ... is used for 2nd series syllables.
 
-...
+Long Vowels
+
+<table>
+  <tr>
+    <th>Vowel</th>
+    <th>1st Series</th>
+    <th>2nd Series</th>
+  </tr>
+  <tr>
+    <td>1. /ii/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2. /ee/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3. /ei/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4. /ɛɛ/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5. /ɨɨ/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6. /əə/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7. /əɨ/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8. /aa/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9. /uu/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10. /oo/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11. /ou/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12. /ɔɔ/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>13. /ɑɑ/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>14. /iə/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>15. /ɨə/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>16. /uə/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>17. /ae/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>18. /aə/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>19. /ao/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>20. /ɔə/</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+Short Vowels
+
+<table>
+  <tr>
+    <th>Vowel</th>
+    <th>1st Series</th>
+    <th>2nd Series</th>
+  </tr>
+  <tr>
+    <td>1. /i/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/iq/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/ih/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2. /e/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/eq/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/eh/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3. /ɨ/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/ɨc/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/ɨñ/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/ɨy/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/ɨw/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4. /ə/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/əc/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/əñ/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/əy/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/əw/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/əh/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5. /a/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/ay/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/aw/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/am/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/aŋ/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/ah/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6. /u/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/up/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/um/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/uq/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7. /o/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/om/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/oq/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8. /ɑ/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/ɑm/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>/ɑh/</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9. //</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>//</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>//</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10. //</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>//</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11. //</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>//</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
